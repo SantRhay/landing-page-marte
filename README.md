@@ -10,7 +10,7 @@ https://santrhay.github.io/landing-page-marte/
 
 ## 📸 Preview do Projeto
 
-![Preview do projeto](pre-visualizacao.png)
+![Preview do projeto](pre-visualizacao..png)
 
 ## 🛠 Tecnologias utilizadas
 
